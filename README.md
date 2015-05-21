@@ -2,7 +2,8 @@ reap
 ====
 
 **reap** stands for **REverse Argument Parse**,  a simple tool to
-transform help-like strings of arguments into Python `argparse` codes.
+transform help messages of arguments into Python codes, embracing the
+built-in modules `argparse`.
 
 Installation
 ------------
